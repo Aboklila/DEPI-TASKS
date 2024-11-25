@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\BEPI_SOLUTION\task2c#.DEPI_SOLUTION\bin\Debug\net5.0\task2c#.DEPI_SOLUTION.exe
+C:\Users\HP\source\repos\BEPI_SOLUTION\task2c#.DEPI_SOLUTION\bin\Debug\net5.0\task2c#.DEPI_SOLUTION.deps.json
+C:\Users\HP\source\repos\BEPI_SOLUTION\task2c#.DEPI_SOLUTION\bin\Debug\net5.0\task2c#.DEPI_SOLUTION.runtimeconfig.json
+C:\Users\HP\source\repos\BEPI_SOLUTION\task2c#.DEPI_SOLUTION\bin\Debug\net5.0\task2c#.DEPI_SOLUTION.runtimeconfig.dev.json
+C:\Users\HP\source\repos\BEPI_SOLUTION\task2c#.DEPI_SOLUTION\bin\Debug\net5.0\task2c#.DEPI_SOLUTION.dll
+C:\Users\HP\source\repos\BEPI_SOLUTION\task2c#.DEPI_SOLUTION\bin\Debug\net5.0\task2c#.DEPI_SOLUTION.pdb
+C:\Users\HP\source\repos\BEPI_SOLUTION\task2c#.DEPI_SOLUTION\obj\Debug\net5.0\task2c#.DEPI_SOLUTION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\BEPI_SOLUTION\task2c#.DEPI_SOLUTION\obj\Debug\net5.0\task2c#.DEPI_SOLUTION.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BEPI_SOLUTION\task2c#.DEPI_SOLUTION\obj\Debug\net5.0\task2c#.DEPI_SOLUTION.AssemblyInfo.cs
+C:\Users\HP\source\repos\BEPI_SOLUTION\task2c#.DEPI_SOLUTION\obj\Debug\net5.0\task2c#.DEPI_SOLUTION.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BEPI_SOLUTION\task2c#.DEPI_SOLUTION\obj\Debug\net5.0\task2c#.DEPI_SOLUTION.dll
+C:\Users\HP\source\repos\BEPI_SOLUTION\task2c#.DEPI_SOLUTION\obj\Debug\net5.0\refint\task2c#.DEPI_SOLUTION.dll
+C:\Users\HP\source\repos\BEPI_SOLUTION\task2c#.DEPI_SOLUTION\obj\Debug\net5.0\task2c#.DEPI_SOLUTION.pdb
+C:\Users\HP\source\repos\BEPI_SOLUTION\task2c#.DEPI_SOLUTION\obj\Debug\net5.0\task2c#.DEPI_SOLUTION.genruntimeconfig.cache
+C:\Users\HP\source\repos\BEPI_SOLUTION\task2c#.DEPI_SOLUTION\obj\Debug\net5.0\ref\task2c#.DEPI_SOLUTION.dll
